@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="768a302f-99ec-4a67-bebb-c803b8e3f4db" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Form.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/TETRIS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/TETRIS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/game_logic1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloApplication$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloApplication$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloApplication$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloApplication$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/ScoreBoard/ScoreBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/ScoreBoard/ScoreBoardWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/ScoreBoard/ScoreRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/SettingsWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/StartMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/TetrisWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/out/production/TETRIS/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/Form.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/ScoreBoard/ScoreBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/ScoreBoard/ScoreBoardWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/ScoreBoard/ScoreRecord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/SettingsWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/StartMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/TetrisWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/game_logic/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloApplication$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloApplication$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloApplication$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloApplication$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/ScoreBoard/ScoreBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/ScoreBoard/ScoreBoardWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/ScoreBoard/ScoreRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/SettingsWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/StartMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/TetrisWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/out/production/TETRIS/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/Form.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/ScoreBoard/ScoreBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/ScoreBoard/ScoreBoardWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/ScoreBoard/ScoreRecord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/SettingsWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/StartMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/TetrisWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_logic/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Form.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScoreBoard/ScoreBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScoreBoard/ScoreBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScoreBoard/ScoreBoardWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScoreBoard/ScoreBoardWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScoreBoard/ScoreRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScoreBoard/ScoreRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Setting/SettingsWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StartMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TetrisWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TetrisWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="768a302f-99ec-4a67-bebb-c803b8e3f4db" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,17 +21,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gugmin-eunhaeng/Documents/GitHub/TETRIS",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gugmin-eunhaeng/Documents/GitHub/TETRIS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resource" />
